@@ -31,4 +31,5 @@ plt.bar(index, York, color='red')
 plt.bar(index, y_450, color='orange')
 
 plt.show()
+
 # print(London)
