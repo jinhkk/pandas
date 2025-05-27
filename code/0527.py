@@ -137,3 +137,6 @@ print(df[['mpg', 'weight', 'displacement', 'model_year']].corr())
 # q_df = df[df['horsepower'] == '?'].index
 # 2. corr
 
+import matplotlib.pyplot as plt
+
+
